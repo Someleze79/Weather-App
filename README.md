@@ -6,24 +6,31 @@ A responsive and user-friendly *Weather Application* that allows users to search
 
 ## 🚀 Features
 
-- City Search – Search weather information by city name  
-- Current Weather Data – Displays temperature and weather conditions  
-- Humidity & Wind Speed – Shows additional weather details  
-- Dynamic Weather Display – Updates based on current weather conditions  
-- Responsive Design – Optimized for desktop and mobile devices  
-- Error Handling – User-friendly messages for invalid city searches  
+- *City Search* – Search weather information by city name  
+- *Current Weather Data* – Displays temperature and weather conditions  
+- *Humidity & Wind Speed* – Shows additional weather details  
+- *Dynamic Weather Display* – Updates based on current weather conditions  
+- *Responsive Design* – Optimized for desktop and mobile devices  
+- *Error Handling* – User-friendly messages for invalid city searches  
 
 ---
 
 ## 🧰 Technologies Used
 
-- HTML – Application structure  
-- CSS – Styling and layout  
-- JavaScript (ES6+) – Application logic  
-- Weather API – Fetches live weather data  
-- Fetch API / Axios – Handles HTTP requests  
+- *HTML* – Application structure  
+- *CSS* – Styling and layout  
+- *JavaScript (ES6+)* – Application logic  
+- *Weather API* – Fetches live weather data  
+- *Fetch API / Axios* – Handles HTTP requests  
 
 ---
+
+## 🧪 How to Use
+
+- Enter a city name in the search input
+- Press Search
+- View the current weather information
+- Try another city to fetch new data
 
 ## 🛠️ Installation & Setup
 
@@ -40,10 +47,3 @@ A responsive and user-friendly *Weather Application* that allows users to search
 # Or, if using a development server:
 - npm install
 - npm start
-
-## 🧪 How to Use
-
-- Enter a city name in the search input
-- Press Search
-- View the current weather information
-- Try another city to fetch new data
