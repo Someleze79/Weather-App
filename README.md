@@ -32,6 +32,8 @@ A responsive and user-friendly *Weather Application* that allows users to search
 - View the current weather information
 - Try another city to fetch new data
 
+---
+
 ## 🛠️ Installation & Setup
 
 ```bash
