@@ -21,7 +21,8 @@ A responsive and user-friendly *Weather Application* that allows users to search
 - *CSS* – Styling and layout  
 - *JavaScript (ES6+)* – Application logic  
 - *Weather API* – Fetches live weather data  
-- *Fetch API / Axios* – Handles HTTP requests  
+- *Fetch API / Axios* – Handles HTTP requests
+- *React* – Component-based frontend development
 
 ---
 
